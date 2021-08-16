@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(["jek1","jek2"])})();
