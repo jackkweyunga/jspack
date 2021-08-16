@@ -1,0 +1,12 @@
+{
+  "name": "nidnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/nid.js",
+  "types": "./dist/nid.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
